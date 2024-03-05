@@ -23,28 +23,28 @@ const Contact: FC = () => {
       <span className="section__title">Contact</span>
 
       <ul className="flex flex-col gap-3 mt-8">
-        <ContactItem
+        {/* <ContactItem
           areaTitle="link to my linkedin"
           delay={1}
           iconClass="bxl-linkedin-square"
-          link="https://www.linkedin.com/in/sky-de-763248228"
+          link="https://www.linkedin.com/in/"
           title="LinkedIn"
-        />
+        /> */}
         <ContactItem
           areaTitle="link to my github"
           delay={2}
           iconClass="bxl-github"
-          link="https://github.com/Sky-De"
+          link="https://github.com/Ghassan-SkyDe"
           title="Github"
         />
         <ContactItem
           areaTitle="link to my gmail"
           delay={3}
           iconClass="bxl-google"
-          link="mailto:sky.de1991@gmail.com"
+          link="mailto:incuvationlabs@gmail.com"
           title="Gmail"
         />
-        <ContactItem
+        {/* <ContactItem
           areaTitle="link to my outlook"
           delay={4}
           iconClass="bx-mail-send"
@@ -57,7 +57,7 @@ const Contact: FC = () => {
           iconClass="bxl-telegram"
           link="https://t.me/SkyDe1991"
           title="Telegram"
-        />
+        /> */}
       </ul>
       <div className="m-4 font-light text-xl">OR</div>
       <motion.div

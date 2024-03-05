@@ -60,7 +60,7 @@ export const projectsData: ProjectState[] = [
       GitIcon,
     ],
     otherTechs: ["axios", "nodeMailer", "cors", "JWT", "bcrypt", "..."],
-    repoUrl: "https://github.com/Sky-De/typescript_mern_app",
+    repoUrl: "https://github.com/Ghassan-SkyDe/typescript_mern_app",
     liveUrl: "https://book-share-app-skyde.netlify.app/",
   },
   {
@@ -97,7 +97,7 @@ export const projectsData: ProjectState[] = [
       GitIcon,
     ],
     otherTechs: [],
-    repoUrl: "https://github.com/Sky-De/the_sixth_sense",
+    repoUrl: "https://github.com/Ghassan-SkyDe/the_sixth_sense",
     liveUrl: "https://2d-free-game-skyde.netlify.app",
   },
   {
@@ -134,7 +134,7 @@ export const projectsData: ProjectState[] = [
       JestIcon,
     ],
     otherTechs: ["nodeMailer", "framer-motion", "PWA"],
-    repoUrl: "https://github.com/Sky-De/Portfolio_typescript_next_js",
+    repoUrl: "https://github.com/Ghassan-SkyDe/Portfolio_typescript_next_js",
     liveUrl: "https://skyde-portfolio.netlify.app/",
   },
   {
@@ -166,7 +166,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [TsIcon, ReactIcon, CssIcon, GitIcon],
     otherTechs: ["PWA", "Context"],
-    repoUrl: "https://github.com/Sky-De/TypeScript-ToDoApp",
+    repoUrl: "https://github.com/Ghassan-SkyDe/TypeScript-ToDoApp",
     liveUrl: "https://typescript-todo-skyde.netlify.app/",
   },
   {
@@ -199,7 +199,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [JsIcon, ReactIcon, CssIcon, MuiIcon, GitIcon],
     otherTechs: ["full-calendar", "Data-grid"],
-    repoUrl: "https://github.com/Sky-De/React-Admin-Dashboard",
+    repoUrl: "https://github.com/Ghassan-SkyDe/React-Admin-Dashboard",
     liveUrl: "https://react-admin-dashboar-skyde.netlify.app",
   },
   {
@@ -231,7 +231,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [JsIcon, ReactIcon, ReduxIcon, TailwindIcon, GitIcon],
     otherTechs: ["Vite", "Swiper", "Rapid-api"],
-    repoUrl: "https://github.com/Sky-De/music-player-app",
+    repoUrl: "https://github.com/Ghassan-SkyDe/music-player-app",
     liveUrl: "https://music-app-skyde.netlify.app/",
   },
   {
@@ -258,7 +258,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [JsIcon, ReactIcon, MuiIcon, CssIcon, GitIcon],
     otherTechs: ["Rapid-api", ".env"],
-    repoUrl: "https://github.com/Sky-De/Youtube_Clone_App",
+    repoUrl: "https://github.com/Ghassan-SkyDe/Youtube_Clone_App",
     liveUrl: "https://youtube-clone-app-skyde.netlify.app/",
   },
   {
@@ -285,7 +285,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [JsIcon, ReactIcon, MuiIcon, CssIcon, GitIcon],
     otherTechs: ["Rapid-api", "Context"],
-    repoUrl: "https://github.com/Sky-De/Free-Gym-Coach-App",
+    repoUrl: "https://github.com/Ghassan-SkyDe/Free-Gym-Coach-App",
     liveUrl: "https://free-coach-skyde.netlify.app",
   },
   {
@@ -309,7 +309,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [TsIcon, NextIcon, TailwindIcon, CssIcon, GitIcon],
     otherTechs: [],
-    repoUrl: "https://github.com/Sky-De/Next-Js-Server-Action",
+    repoUrl: "https://github.com/Ghassan-SkyDe/Next-Js-Server-Action",
     liveUrl: "https://next-js-server-action.vercel.app/",
   },
   {
@@ -341,7 +341,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [TsIcon, NextIcon, TailwindIcon, CssIcon, GitIcon],
     otherTechs: ["google-Auth", "gitHub-Auth"],
-    repoUrl: "https://github.com/Sky-De/typescript-next-js-13-app",
+    repoUrl: "https://github.com/Ghassan-SkyDe/typescript-next-js-13-app",
     liveUrl: "https://ai-share-sky-de.netlify.app",
   },
   {
@@ -369,7 +369,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [TsIcon, ReactIcon, CssIcon, GitIcon],
     otherTechs: ["context"],
-    repoUrl: "https://github.com/Sky-De/react-typeScript-shopping-cart",
+    repoUrl: "https://github.com/Ghassan-SkyDe/react-typeScript-shopping-cart",
     liveUrl: "https://shopping-cart-typescript-skyde.netlify.app/",
   },
   {
@@ -388,8 +388,8 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [HtmlIcon, SassIcon, GitIcon],
     otherTechs: [],
-    repoUrl: "https://github.com/Sky-De/react-typeScript-shopping-cart",
-    liveUrl: "https://github.com/Sky-De/Fylo-landing-page",
+    repoUrl: "https://github.com/Ghassan-SkyDe/react-typeScript-shopping-cart",
+    liveUrl: "https://github.com/Ghassan-SkyDe/Fylo-landing-page",
   },
   {
     id: 13,
@@ -407,7 +407,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [JsIcon, HtmlIcon, SassIcon, GitIcon],
     otherTechs: [],
-    repoUrl: "https://github.com/Sky-De/lvl2-Tip-calculator-app",
+    repoUrl: "https://github.com/Ghassan-SkyDe/lvl2-Tip-calculator-app",
     liveUrl: "https://tip-calculator-app-sky-de.netlify.app/",
   },
   {
@@ -426,7 +426,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [JsIcon, HtmlIcon, SassIcon, GitIcon],
     otherTechs: [],
-    repoUrl: "https://github.com/Sky-De/Easybank-landing-page",
+    repoUrl: "https://github.com/Ghassan-SkyDe/Easybank-landing-page",
     liveUrl: "https://easybank-landing-pagerespinsive.netlify.app/",
   },
   {
@@ -445,7 +445,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [JsIcon, HtmlIcon, TailwindIcon, SassIcon, GitIcon],
     otherTechs: [],
-    repoUrl: "https://github.com/Sky-De/LandingPage-TailwindCSS",
+    repoUrl: "https://github.com/Ghassan-SkyDe/LandingPage-TailwindCSS",
     liveUrl: "https://tailwind-landingpage-skyde.netlify.app/",
   },
   {
@@ -464,7 +464,7 @@ export const projectsData: ProjectState[] = [
     },
     techIcons: [JsIcon, HtmlIcon, TailwindIcon, GitIcon],
     otherTechs: [],
-    repoUrl: "https://github.com/Sky-De/Tailwind-CSS-Project",
+    repoUrl: "https://github.com/Ghassan-SkyDe/Tailwind-CSS-Project",
     liveUrl: "https://tailwind-css-project-sky-de.netlify.app/",
   },
 ];

@@ -1,8 +1,8 @@
 # Personal Portfolio
 
-<a href="https://skyde-portfolio.netlify.app/" target="_blank" ><img src="https://github.com/Sky-De/Portfolio_typescript_next_js/assets/79264045/50b621ca-b26c-4dc3-a752-147a80076b2c"></a>
+<a href="https://skyde-portfolio.netlify.app/" target="_blank" ><img src="https://github.com/Ghassan-SkyDe/Portfolio_typescript_next_js/assets/79264045/50b621ca-b26c-4dc3-a752-147a80076b2c"></a>
 
-<img src="https://github.com/Sky-De/Portfolio_typescript_next_js/assets/79264045/d9879c46-7bde-4940-acac-2009f9faea43">
+<img src="https://github.com/Ghassan-SkyDe/Portfolio_typescript_next_js/assets/79264045/d9879c46-7bde-4940-acac-2009f9faea43">
 
 Feel free to give it a start 🌟
 
@@ -50,7 +50,7 @@ Feel free to give it a start 🌟
 
 Take a look at the live project deployed on Netlify
 
-[Live Demo](https://skyde-portfolio.netlify.app/)
+[Live Demo](https://Ghassan-SkyDe-portfolio.netlify.app/)
 
 ![line]
 
@@ -58,17 +58,17 @@ Take a look at the live project deployed on Netlify
 
 ** ------------------------------------- DESKTOP -------------------------------------**
 
-<img src="https://github.com/Sky-De/Portfolio_typescript_next_js/assets/79264045/1d257a11-3531-4b85-a5ef-dbea081a7509" width="80%">
+<img src="https://github.com/Ghassan-SkyDe/Portfolio_typescript_next_js/assets/79264045/1d257a11-3531-4b85-a5ef-dbea081a7509" width="80%">
 
-<img src="https://github.com/Sky-De/Portfolio_typescript_next_js/assets/79264045/51da5e9a-054c-45e1-a4e5-328e53c3f1b0" width="80%">
+<img src="https://github.com/Ghassan-SkyDe/Portfolio_typescript_next_js/assets/79264045/51da5e9a-054c-45e1-a4e5-328e53c3f1b0" width="80%">
 
-<img src="https://github.com/Sky-De/Portfolio_typescript_next_js/assets/79264045/d55f9fa0-a007-4ab8-a303-668d55085ae4" width="80%">
+<img src="https://github.com/Ghassan-SkyDe/Portfolio_typescript_next_js/assets/79264045/d55f9fa0-a007-4ab8-a303-668d55085ae4" width="80%">
 
 ** -------------------------------------- Mobile ------------------------------------**
 
-<img src="https://github.com/Sky-De/Portfolio_typescript_next_js/assets/79264045/7590ad82-d455-41c4-af74-d69c6a4d27d9" width="270">
-<img src="https://github.com/Sky-De/Portfolio_typescript_next_js/assets/79264045/35b8d855-228e-4ff2-b9c5-3b8895e001dd" width="270">
-<img src="https://github.com/Sky-De/Portfolio_typescript_next_js/assets/79264045/389debe1-5b42-4286-a08a-f8c7ab71ec9b" width="270">
+<img src="https://github.com/Ghassan-SkyDe/Portfolio_typescript_next_js/assets/79264045/7590ad82-d455-41c4-af74-d69c6a4d27d9" width="270">
+<img src="https://github.com/Ghassan-SkyDe/Portfolio_typescript_next_js/assets/79264045/35b8d855-228e-4ff2-b9c5-3b8895e001dd" width="270">
+<img src="https://github.com/Ghassan-SkyDe/Portfolio_typescript_next_js/assets/79264045/389debe1-5b42-4286-a08a-f8c7ab71ec9b" width="270">
 
 ![line]
 
@@ -102,7 +102,7 @@ Provided step-by-step instructions on how to install and run this project locall
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sky-De/Portfolio_typescript_next_js
+git clone https://github.com/Ghassan-SkyDe/Portfolio_typescript_next_js
 
 # Change directory
 cd directory
@@ -117,16 +117,12 @@ npm install
 npm run dev
 ```
 
-![line]
-
-[line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 
 ## Contact
 
-**skyDe**
+**Ghassan-SkyDe**
 
-[LinkedIn](https://www.linkedin.com/in/sky-de-763248228)
 
-[GitHub](https://github.com/Sky-De)
+[GitHub](https://github.com/Ghassan-SkyDe)
 
-[Twitter](https://twitter.com/SkyDe1991?t=b2SJxGA4wmHwwgxDUUtE8Q&s=09)
+[Gmail](incuvationlabs@gmail.com)

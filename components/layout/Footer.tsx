@@ -10,22 +10,22 @@ const Footer: FC = () => {
       {...slide_Up_Animation_Props}
       className="apply__footer mt-auto"
     >
-      <Link
+      {/* <Link
         aria-label="linkedin-link"
-        href="https://www.linkedin.com/in/sky-de-763248228"
+        href="https://www.linkedin.com/in/"
       >
         <i
           data-testid="footer-icon"
           className="bx bxl-linkedin-square apply__footer--item"
         ></i>
-      </Link>
-      <Link aria-label="email-link" href="mailto:sky.de1991@gmail.com">
+      </Link> */}
+      <Link aria-label="email-link" href="mailto:incuvationlabs@gmail.com">
         <i
           data-testid="footer-icon"
           className="bx bxl-google apply__footer--item"
         ></i>
       </Link>
-      <Link aria-label="github-link" href="https://github.com/Sky-De">
+      <Link aria-label="github-link" href="https://github.com/Ghassan-SkyDe">
         <i
           data-testid="footer-icon"
           className="bx bxl-github apply__footer--item"
