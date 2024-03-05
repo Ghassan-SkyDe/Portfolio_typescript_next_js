@@ -20,7 +20,7 @@ export const LogoThemeBtn: FC<ThemeBtnProps> = ({ type }) => {
       onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
       className="logo flex items-center justify-center text-[3rem] px-1 cursor-pointer relative select-none"
     >
-      SKY
+      Ghassan-SkyDe
       <i
         data-testid="theme-icon"
         className={`transition-transform absolute top-2 left-[115%] bx ${
