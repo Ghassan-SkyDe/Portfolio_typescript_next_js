@@ -207,7 +207,7 @@ const OfferForm: FC = () => {
             step !== 3 ? "hidden" : ""
           }`}
         >
-          {/* <GoogleReCAPTCHA setCaptcha={setCaptcha} /> */}
+          <GoogleReCAPTCHA setCaptcha={setCaptcha} />
         </div>
       </form>
       {step > 3 && (
